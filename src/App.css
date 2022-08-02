@@ -1,0 +1,22 @@
+.main-container {
+  border-radius: 20px;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  padding-left: 4.5rem;
+  padding-right: 4.5rem;
+  background: linear-gradient(to bottom, #3366ff 0%, #66ccff 106%);
+  border: 10px black solid;
+}
+
+.row-cell {
+  height: 20px;
+}
+
+.cell-empty {
+  background-color: white;
+}
+
+.cell-filled {
+  background-color: #A93706;
+}
+
